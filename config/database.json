@@ -1,0 +1,9 @@
+{
+  "database": {
+    "url": "postgresql://crescentgradadmin:Ap1ilgfSxJTPejPrCFTenuOsJa7w@crescentgrad-m2fmu1.postgres.database.azure.com:5432/crescentgrad?sslmode=require",
+    "pool": 10
+  },
+  "cache": {
+    "ttl_seconds": 300
+  }
+}
